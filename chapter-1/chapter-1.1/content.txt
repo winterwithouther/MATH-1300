@@ -1,0 +1,62 @@
+CHAPTER 1: INTRODUCTION TO RELATIONS AND FUNCTIONS
+
+1.1 GRAPHICAL FEATURES AND RELATIONS
+
+When we plot the ordered pairs from a relation on the Cartesian coordinate
+plane, we call this a graphical representation of the relation. Two important
+features that we use to describe graphical representations of relations are axis
+intercepts and symmetry. Axis intercepts are points of a relation which lie on
+the x-axis or y-axis. For a point to lie on the x-axis, the y-coordinate must be
+equal to 0 as the point must not be above or below the x-axis. So to find
+x-intercepts, we need only to look for points on a graph whose y-coordinate is 0
+(when we only have an equation describing a relation, this is often easier said
+than done). Similarly, to find y-intercepts, the x-coordinate must be equal to 0
+since the point must not be to the left or right of the y-axis, so we look for
+points on a graph whose x-coordinate is 0.
+
+A graphical representation of a relation which has similar features on opposite
+sides of an axis or around the origin is said to have symmetry. Saying that a
+relation has x-axis symmetry means all of the following statements:
+- Every point on the graph of the relation above the -axis has a "twin" point
+on the relation below the x-axis, with the same x-coordinate and opposite y-coordinate.
+- When the graph of the relation is reflected or "flipped" over the x-axis, we
+get the same graph.
+- Symbolically, if the relation contains the point (x, y), it must also have the
+point (x, -y).
+
+Relations given as an equation or expression provide us the opportunity to
+determine all of these features algebraically. To determine the axis intercepts
+and symmetry of a relation algebraically, we use the following techniques
+(think about why they make sense)...
+
+x-intercepts: Set y equal to 0 and solve for x. If a number c
+is a solution, then (c, 0) is an x-intercept.
+
+y-intercepts: Set x equal to 0 and solve for y. If a
+number c is a solution, then (0, c) is a y-intercept.
+
+x-axis symmetry: Replace every y with -- y and simplify
+the equation. If the simplified equation is equivalent to the original
+equation, then the relation has x-axis symmetry. If the simplified equation
+is different from the original equation, then the relation does not have
+x-axis symmetry.
+
+y-axis symmetry: Replace every x with -x and simplify the equation.
+If the simplified equation is equivalent to the original equation, then the
+relation has y-axis symmetry. If the simplified equation is different from the original
+equation, then the relation does not have y-axis symmetry.
+
+origin symmetry: Replace every x with -x and every y with -y
+and simplify the equation. If the simplified equation is equivalent
+to the original equation, then the relation has origin symmetry. If the
+simplified equation is different from the original equation, then the relation
+does not have the origin symmetry.
+
+plug in 0 for y to find x-intercepts
+plug in 0 for x to find y-intercepts
+replace x with -x to check for y-axis symmetry; this relation does not
+have that symmetry
+replace y with -y to check for x-axis symmetry; this relation does have
+that symmetry
+replace both variable with there opposites to check for origin symmetry;
+this relation does not have that symmetry.

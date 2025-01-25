@@ -1,0 +1,27 @@
+1.2 INTRODUCTION TO FUNCTIONS
+
+A major subset of relations, and one that we will focus the majority of our
+efforts on, is known as a function. A function is a relation in which every input
+value has one and only one output value, and we say that the output value is a
+function of the input value. Informally, function is a relation where we can 
+determine precisely what every input value is "going to become."
+
+1.2.1 DETERMINING WHETHER A RELATION IS FUNCTION
+
+For a relation of ordered pairs (x, y), if every x-coordinate has at most one
+respective y-coordinate, then we say that y is a function of x. So if our all of
+our x-values are unique, we are guaranteed to have a function, but if an x-value
+is repeated in the relation, the respective ordered pairs must be identical
+or there would be an input with more than one output. Graphically, if y is a
+function of x, then no x-value has more than one point associated with it.
+
+When a relation is given in the form equation, one can determine if the
+relation is a function graphically or algebraically. To determine if an equation
+represents y as a function of x graphically, we graph the relation and use the
+vertical line test. The vertical line test states that y is a function of x if and
+only if no two points lie on the same vertical line. The vertical line test works since
+if a vertical line intersects the relation more than once, there would be an
+x-value with more than one y-value, as every point on a vertical line has the same
+x-coordinate. To determine whether an equation for y and determine whether
+each x-value in the relation will correspond with only one y-value.
+

@@ -64,3 +64,17 @@ use the letter t to be the input variable (t-shirts) and c to be the output vari
 So, we end up with the function notation c(t) = 5t + 23. Using this
 notation, we know c(10) = 5(10) + 23 = 73 means that the cost of making 10
 t-shirts is $73.
+
+1.2.4 IMPLIED DOMAIN
+
+There are several functions / operations that are not defined for certain values.
+Two that you should be familiar with are dividing by 0 and even radicals / roots
+of negative numbers. For these cases, we have what is known as implied
+domain in play, meaning that the allowable inputs of the function are implied by
+the function itself. For example, consider f(x) = 3 / x - 2 and g(x) = sqrt(3 - x) / x.
+
+For f, it is implied that x cannot equal 2 as that would make the denominator 0.
+So, the implied domain for (negative infinity, 2) to (2, infinity). Since g involves
+an even radical and division, we have two domain restrictions to consider. Due to the square root,
+
+

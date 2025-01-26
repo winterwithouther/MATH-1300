@@ -60,3 +60,4 @@ replace y with -y to check for x-axis symmetry; this relation does have
 that symmetry
 replace both variable with there opposites to check for origin symmetry;
 this relation does not have that symmetry.
+

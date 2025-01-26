@@ -25,3 +25,42 @@ x-value with more than one y-value, as every point on a vertical line has the sa
 x-coordinate. To determine whether an equation for y and determine whether
 each x-value in the relation will correspond with only one y-value.
 
+1.2.2 DOMAIN AND RANGE
+
+Given a function, the set of input values that get matched to an output is called
+the domain of the function, while the set of output values of a function is
+called the range. For example, for the function of x described by the set of
+ordered pairs {(4, 5), (8, 3), (3, 3), (9, 7)}, the domain would be the set of all x
+values, or {0, 3, 4, 8}, and the range would be the set of y all values, or {3, 5, 7},
+
+It is important to emphasize that the terms domain and range refer strictly to
+functions.
+
+1.2.3 FUNCTION NOTATION
+
+If a relation, call it f, represents y as a function of x, symbolically we say
+y = f(x), read as "y equals f of x." This notation is called function notation
+and makes it possible to eliminate the need for the y variable. For example we
+know y = 2x + 3 describes y as a function of x as it already solved for y
+and each x-value has one and only one y-value. If we replace y with f(x),
+we now have the equation f(x) = 2x + 3 which now only has one variable. It is
+for this reason that the input variable is often called the independent variable
+and the output variable is often called the dependent variable. Function
+notation denotes this relationship explicitly. This notation is especially handy
+when trying to indicate which input value of the domain is to be plugged into 
+the function. For example, if we continue with our example of
+f(x) = 2x + 3, then f(1) means we are inputting the number 1 into the
+function in the place of x. So, we see that f(1)f = 2(1) + 3 = 5. Function
+notation is also used in ordered pairs as (x, f(x)). So staying with our
+example from before, we now have the point (1, 5).
+
+A function is not always denoted by the letter f and the input value isn't always
+denoted by the letter x, although they are admittedly the most commonly used
+symbols, even here. Many times it is best to use letters to more clearly indicate
+the items or objects they represent. For example, if we want to use function
+notation to describe the cost of manufacturing a certain number of t-shirts
+when each t-shirt costs $5 and there is a flat setup fee of $23, we may want to
+use the letter t to be the input variable (t-shirts) and c to be the output variable (cost)
+So, we end up with the function notation c(t) = 5t + 23. Using this
+notation, we know c(10) = 5(10) + 23 = 73 means that the cost of making 10
+t-shirts is $73.

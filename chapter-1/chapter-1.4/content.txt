@@ -19,3 +19,26 @@ Now that we have a better understanding of vertical and horizontal lines, we
 can explore how transformations affect them. The most basic vertical line is
 the relation x = 0 (or the y-axis), while the most basic horizontal line is the constant
 function f(x) = 0 (or the x-axis)
+
+1.4.2 LINEAR FUNCTIONS
+
+The most basic (non constant) linear function is g(x) = x, and contains every
+point of the form (a, a) where a is any real number. To graph the function
+g(x) = x, we could start at the origin, and then move right 1 unti and up 1
+unit (as it has a slope of 1) to get a second point of (1, 1) to graph this parent
+function of all linear functions. We can then write any linear function f(x) as a
+transformation of g(x) = x. Recalling the standard form of a transformation of a
+function, we can write...
+
+Notice how the simplified standard form of a linear function is very closely
+related to the point-slope form of a line, y - y1 = m(x - x1), from an algebra
+class but explicitly solved for y. Using function notation and an input value
+of a, we would get... f(x) = m(x - a) + f(a)
+
+If we were to use the point (0, f(0)), we would end up with the Expanded
+(or slope-intercept) Form of a linear function.
+
+In the figure below, the graph of a linear function with horizontal scale 1/4,
+horizontal shift left 2, vertical reflection, and vertical shift up 2 is given
+with its equation in standard form, simplified standard form, and expanded form. 
+Note that for the standard form equation, we start at the point (2,2).

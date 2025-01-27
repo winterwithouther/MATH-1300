@@ -90,25 +90,5 @@ means we would not see those transformations explicitly written. Take note
 that the coefficient of x is 1, and that the horizontal transformations are written
 inversely. As an example the transformation
 
-1.4.1 HORIZONTAL LINES (OR CONSTANT FUNCTIONS) AND VERTICAL LINES
 
-Now that we know our common functions and transformations, let's explore
-transformations of basic functions. Let's begin with horizontal lines
-and vertical lines (though vertical lines admittedly aren't functions of x).
-To start, let's be sure we understand how vertical and horizontal lines are defined.
-
-Given a point (a, b), how can we determine the vertical and horizontal lines
-through that point? If we want a horizontal line, we know we want to make
-sure our y-value is always the same no matter what the x-value is; so the
-equation y=b gives us a horizontal line. We can also write this relation as a
-function of x, as f(x) = b. Note that x does not show up in the very simple
-"calculation" at all, as we want the y-coordinate, or output, to be b no regardless
-of x-value. We say that in this case, f(x) is a constant function since it does not change.
-Likewise, for the vertical line through the point (a, b), we want our x-coordinate to stay
-constant as y varies, so we get the equation x = a. Think about why a vertical line is not a function of x.
-
-Now that we have a better understanding of vertical and horizontal lines, we
-can explore how transformations affect them. The most basic vertical line is
-the relation x = 0 (or the y-axis), while the most basic horizontal line is the constant
-function f(x) = 0 (or the x-axis)
 

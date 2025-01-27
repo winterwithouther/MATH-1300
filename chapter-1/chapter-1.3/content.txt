@@ -6,3 +6,31 @@ affects the final output of the function. As far as arithmetic operations giving
 transformations go, to simplify things we are going to talk only about the addition
 and multiplication of constants, This is because subtraction is addition of a
 negative, while division is multiplication of a reciprocal. Let's start with addition.
+
+1.3.1 SHIFTS FROM ADDITION
+
+The question is, how does f(x) compare to f(x + c) and f(x) + c? For
+now, let's suppose f(0) = 0 since 0 is the identity of addition. This means
+when the input value of f is 0, the output value, f(0) is also 0. So for
+f(x + c), we know that if we were to plug in -c, we would get... f(-c + c) = f(0) = 0
+
+So, we would need to adjust our inputs by the additive inverse (the "negative")
+of c to get the known result of f(0) = 0 (if c is positive we need to move c
+units to the left, if c is negative we need to move c units to the right, and if
+c = 0 we have no horizontal movement)
+
+for f(x) + c, we know... f(0) + c = 0 + c = c
+
+So, we would need to adjust our outputs by the value of c (if c is positive we
+need to move c units up, if c is negative we need to move |c| units to the down,
+if c = 0 we have no movement)
+
+One way to remember that the first case gave a horizontal shift and the second
+a vertical shift, is to think of "when did we add c?" For f(x + c), first c gets added
+to the original input of x, and then that modified input gets plugged into f. That is,
+we added c to the input before it went through the calculation of f, giving us
+a horizontal transformation. With f(x) + c, the original input x gets plugged into f,
+and then c gets added to the output value of f. Here we added c after f was calculated,
+so we have vertical transformation. We call these transformations shifts since they will
+simply slide points left, right, up, or down.
+

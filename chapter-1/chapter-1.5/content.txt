@@ -1,0 +1,85 @@
+1.5 QUADRATIC FUNCTIONS
+
+You may recall from previous coursework that a quadratic function, whose
+graph is known as a parabola, is any function of the form f(x) = ax^2 + bx + c
+where a, b, and c are real numbers with a not equal to 0.
+This expanded form of the quadratic doesn't indicate the transformations from the
+parent function q(x) = x^2. The important features of a quadratic function's graph are:
+- axis intercepts,
+- orientation
+- vertex and
+- axis of symmetry
+
+As with any function of x, the x-intercepts, if any, can be found by setting f(x) = 0
+and solving for x. Recall from algebra, that to solve a quadratic expression equal to zero,
+we can solve by
+- factoring
+- completing the square, or
+- the quadratic formula.
+
+THE QUADRATIC FORMULA AND THE DETERMINANT
+
+Given the quadratic function, f(x) = ax^2 + bx + c, the solution(s) to
+f(x) = 0, if any, are of the form...
+
+where b^2 - 4ac is called the determinant as its value will determine the number of
+real zeros of the quadratic function. Meaning...
+- if the determinate is zero, then the function has one real zero and hence
+one x-intercept, and
+- if the determinate is negative, then the function has no real zeros and hence
+no x-intercepts.
+
+Two features of a quadratic function that are easily determined in expanded
+form of f(x) = ax^2 + bx + c are its y-intercept and its orientation. The y-intercept,
+as for any function of x, is (0, f(0)), so a quadratic function has y-intercept
+(0, c) where c is the constant term. The orientation of a quadratic functions refers
+to whether the parabola opens upwards or downwards. If a > 0, the parabola will
+open upwards, and if a < 0, the parabola will open downwards.
+Depending on the orientation, the vertex of a quadratic function is the absolute
+maximum or minimum of the function. Informally, the vertex is the "turning point"
+of the parabola. The vertex of a quadratic function is the point with an x-coordinate
+equal to the quadratic formula without the plus or minus the square root of the discriminant.
+
+The axis of symmetry of a quadratic function is the vertical line intersecting
+the vertex. So, if the vertex of a parabola is at the point (t, f(t)), then the axis
+of symmetry will be the line x = t
+
+For the basic parent quadratic function y = x^2, the x-intercept and y-intercept
+are both the point (0, 0), the orientation is upwards, the vertex is also
+the point (0, 0), and the axis of symmetry is the line x = 0, which is the y-axis.
+
+Another way to find the vertex of a quadratic function is to rewrite the function
+in standard form, commonly knwon as the vertex form.
+
+A quadratic function is in standard, or vertex, form when it is written as
+f(x) = c(x - b)^2 + d where c is not equal to 0 and is the vertical scale and (b, d)
+is the vertex.
+
+We also call this form vertex form since the shifts take the vertex of the parent
+function p(x) = x^2 from (0, 0) to (b, d). When a quadratic function is given
+in expanded form, rewriting the function in standard form involves completing the square,
+which we will see done in Example 1.
+
+Having a quadratic function in standard form makes it much more efficient to
+find many of the features of the function. Standard form is already set up to solve
+for the zeros very easily, as setting f(x) = 0 and solving for x gives us... 
+
+While finding the y-intercept isn't quite as straight forward as it was with the
+function in expanded form, (0, 0) still isn't too laborious of a calculation. As c
+is the vertical scaling, it also will indicate the orientation. For example, we have
+below the graph of g(x) = 2x^2 - 4x - 2, which can also be written in standard form as
+g(x) = 2(x - 1)^2 - 4. We'll see in example 1 how we can rewrite an expanded form quadratic
+in standard form.
+
+Note that the while we are able to quickly determine the orientation and y-intercept
+of (0, -2) from the expanded form, determining the vertex and axis of symmetry will require some 
+calculations. The vertex form, on the other hand, indicates that the parent function of p(x) = x^2
+is shifted right 1 and down 4 and vertically scaled by 2 so g still has an upward orientation,
+has a vertex of (1, -4), and axis of symmetry of x = 1, but now finding the y-intercept takes some
+calculation. Another nice feature of the vertex form of a quadratic function is that since we know
+the function has an upward orientation and has been shifted downwards, we know that there will be
+exactly two distinct real zeros and hence two x-intercepts without having to calculate the discriminant.
+Determining the x-intercepts for either form does require some calculations. However,
+recall that completing the square is one method of determining when a quadratic is equal to 0,
+so a good portion of the work is already completed by putting the function in a vertex form.
+

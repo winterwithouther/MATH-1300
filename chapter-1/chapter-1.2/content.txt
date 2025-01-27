@@ -119,3 +119,25 @@ contained within the domain of f, and f(a) is greater than or equal to f(b) for 
 contained within the domain of f, and f(a) is less than or equal to f(b) for any number b in I.
 - f(a) is a absolute maximum of f if f(a) is greater than or equal to f(b) for all b in the domain of f.
 - f(a) is a absolute minimum of f if f(a) is less than or equal to for all b in the domain of f.
+
+1.2.6 REVIEW OF BASIC (OR PARENT) FUNCTIONS
+
+1.2.7 APPLIED DOMAIN AND PIECEWISE FUNCTIONS
+
+A piecewise-definition function, or simply a piecewise function, is a system of
+different functions that are applied for a distinct values of the domain, hence the
+term applied domain. For example, say a package delivery company charges $1
+per pound with $2 handling charge to ship an item up to 5 pounds anywhere in the
+continental USA, but if a package weighs more than 5 pounds, the price per pound
+goes up to $1.20 and a $5 handling charge. Letting x represent the weight of a package
+and c(x) be the shipping costs, the piecewise function representing the cost would be
+
+Notice that the function is defined for all positive real numbers, as a package
+can weigh any positive amount. If a package weights up to 5 pounds the
+shipping cost is calculated using the top expression, but once the weight exceeds 
+5 pounds the sihpping cost is calculated using the bottom expression. Since
+5 is the "deciding" value to determine which expression we use to calculate, 5 is
+called a value of rule change. A graphical representation of c(x) is shown in the figure
+below; note the open and closed points to indicate inclusion and exclusion of the value of rule change.
+
+

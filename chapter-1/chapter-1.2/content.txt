@@ -77,4 +77,45 @@ For f, it is implied that x cannot equal 2 as that would make the denominator 0.
 So, the implied domain for (negative infinity, 2) to (2, infinity). Since g involves
 an even radical and division, we have two domain restrictions to consider. Due to the square root,
 
+1.2.5 TERMINOLOGY OF FUNCTIONS
 
+Let's say that f is a relation such that y is a function of x, or y = f(x). There
+are some distictions to be made when it comes to the important features of f.
+First off, since f is a function, we know there is at most one y-intercept, since if
+there were any more, then f would fail the vertical line test. There can be any
+number of x-intercepts, though, and we refer to the x-coordinate of an x-intercept
+as a root or zero of the function. The case where f(x) = 0 is the only case where f
+can have x-axis symmetry, since otherwise, f would again not pass the vertical line test.
+We describe f as an even function if it is symmetric about the y-axis, and an odd function
+if it symmetric about the origin.
+
+We say that a function is monotonic on an interval if, on the entire interval, it is
+either:
+- increasing or constant, or
+- decreasing or constant.
+
+That is, if the function is ever increasing on the interval, it will never be
+decreasing on the interval, and vice versa.
+
+Closely related to the idea of a function increasing, decreasing, or constant are
+the concepts of maximums and minimums of functions (we sometimes use the
+terms maxima and minima, or extrema). There are two different types of
+maximums and minimums: absolute and local. The absolute (or global) maximum
+of a function is the largest value of the function over the entire domain
+while the absolute minimum is the smallest value of the function over the entire domain.
+A local (or relative) maximum of a function is the largest value of a function
+over an open interval of the domain but not necessarily the entire domain (although it may be).
+Likewise, a local minimum of a function is the smallest value of a function over a open
+interval of the domain. Graphically, a local maximum will look like the top of a hill (though
+the top of this hill may be flat), while a local minimum look like the bottom of a valley (while again,
+the valley's bottom may be flat). Algebraically, we say...
+
+ABSOLUTE AND LOCAL EXTREMA
+
+Suppose f is a function and a is a number in the domain of f. We say...
+- f(a) is a local maximum of f if we can place a in an open interval I
+contained within the domain of f, and f(a) is greater than or equal to f(b) for any number b in I.
+- f(a) is a local minimum of f if we can place a in an open interval I
+contained within the domain of f, and f(a) is less than or equal to f(b) for any number b in I.
+- f(a) is a absolute maximum of f if f(a) is greater than or equal to f(b) for all b in the domain of f.
+- f(a) is a absolute minimum of f if f(a) is less than or equal to for all b in the domain of f.

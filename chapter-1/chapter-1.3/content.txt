@@ -1,0 +1,8 @@
+1.3 FUNCTION TRANSFORMATIONS
+
+To begin our discussion of function transformations, we must first think about
+how arithmetically modifying the function both before and after its calculation
+affects the final output of the function. As far as arithmetic operations giving us
+transformations go, to simplify things we are going to talk only about the addition
+and multiplication of constants, This is because subtraction is addition of a
+negative, while division is multiplication of a reciprocal. Let's start with addition.
